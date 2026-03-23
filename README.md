@@ -54,16 +54,16 @@ Jupyter Notebook -ympäristössä.
 ## 📸 Esimerkkikuvaajia
 
 ### Sin ja Cos viivakuvaaja
-![Sin ja Cos kuvaaja](kuva1.png)
+![Sin ja Cos kuvaaja](kuva1.png.png)
 
 ### 6 eri sin-kuvaajaa eri väreillä
-![Värilliset kuvaajat](kuva2.png)
+![Värilliset kuvaajat](kuva2.png.png)
 
 ### Scatter plot
-![Scatter plot](kuva3.png)
+![Scatter plot](kuva3.png.png)
 
 ### Histogrammi
-![Histogrammi](kuva4.png)
+![Histogrammi](kuva4.png.png)
 
 ---
 
